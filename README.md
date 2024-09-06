@@ -1,1 +1,1 @@
-recomendador de filmes sinmples feito atravês das aulas da alura
+recomendador de filmes simples feito atravês das aulas da alura
